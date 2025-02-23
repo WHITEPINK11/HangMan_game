@@ -51,3 +51,4 @@ User Experience
 Improved Interaction: Implementing a graphical interface with Swing significantly enhances the interaction compared to a basic console output.
 Algorithmic Efficiency
 Efficient Data Structures: The use of data structures such as Set for checking repeated input provides quick validation, while lists and arrays effectively manage the word collection and hangman stages.
+
